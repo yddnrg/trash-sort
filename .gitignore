@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .DS_Store
 node_modules/
 /dist/
@@ -363,4 +363,4 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
->>>>>>> 727e024afecd1919d43d93738c80b1c673bcf504
+
